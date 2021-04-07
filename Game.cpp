@@ -99,7 +99,7 @@ void Game::Render() {
 }
 
 void Game::LoadSprites() {
-	this->spriteSheet.loadFromFile("trainsprite.png");
+	this->spriteSheet.loadFromFile("resources/trainsprite.png");
 	TrainSprite.setTexture(spriteSheet);
 	TrainSprite.setScale(sf::Vector2f(0.25, 0.25));
 	TrainSprite.setOrigin(104.5, 104.5);
@@ -109,11 +109,11 @@ void Game::LoadSprites() {
 	snoopy.setScale(0.2, 0.2);
 	snoopy.setOrigin(104.5, 104.5);
 
-	font.loadFromFile("Roboto-Bold.ttf");
+	font.loadFromFile("resources/Roboto-Bold.ttf");
 	Score.setFont(font);
 	Score.setFillColor(sf::Color::Black);
 
-	this->Background.loadFromFile("sand.jpg");
+	this->Background.loadFromFile("resources/sand.jpg");
 	bg.setTexture(Background);
 	bg.setScale(2, 2);
 }
