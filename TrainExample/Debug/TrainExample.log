@@ -1,0 +1,207 @@
+﻿  Game.cpp
+F:\SFML\TrainExample\TrainExample\Game.cpp(66,37): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+F:\SFML\TrainExample\TrainExample\Game.cpp(66,25): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+F:\SFML\TrainExample\TrainExample\Game.cpp(93,39): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+F:\SFML\TrainExample\TrainExample\Game.cpp(93,28): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+F:\SFML\TrainExample\TrainExample\Game.cpp(108,62): warning C4244: 'argument': conversion from 'double' to 'T', possible loss of data
+          with
+          [
+              T=int
+          ]
+F:\SFML\TrainExample\TrainExample\Game.cpp(108,56): warning C4244: 'argument': conversion from 'double' to 'T', possible loss of data
+          with
+          [
+              T=int
+          ]
+F:\SFML\TrainExample\TrainExample\Game.cpp(108,51): warning C4244: 'argument': conversion from 'double' to 'T', possible loss of data
+          with
+          [
+              T=int
+          ]
+F:\SFML\TrainExample\TrainExample\Game.cpp(108,41): warning C4244: 'argument': conversion from 'double' to 'T', possible loss of data
+          with
+          [
+              T=int
+          ]
+F:\SFML\TrainExample\TrainExample\Game.cpp(109,26): warning C4305: 'argument': truncation from 'double' to 'float'
+F:\SFML\TrainExample\TrainExample\Game.cpp(123,68): warning C4244: 'argument': conversion from 'double' to 'T', possible loss of data
+          with
+          [
+              T=int
+          ]
+F:\SFML\TrainExample\TrainExample\Game.cpp(123,62): warning C4244: 'argument': conversion from 'double' to 'T', possible loss of data
+          with
+          [
+              T=int
+          ]
+F:\SFML\TrainExample\TrainExample\Game.cpp(123,57): warning C4244: 'argument': conversion from 'double' to 'T', possible loss of data
+          with
+          [
+              T=int
+          ]
+F:\SFML\TrainExample\TrainExample\Game.cpp(123,47): warning C4244: 'argument': conversion from 'double' to 'T', possible loss of data
+          with
+          [
+              T=int
+          ]
+F:\SFML\TrainExample\TrainExample\Game.cpp(125,70): warning C4244: 'argument': conversion from 'double' to 'T', possible loss of data
+          with
+          [
+              T=int
+          ]
+F:\SFML\TrainExample\TrainExample\Game.cpp(125,64): warning C4244: 'argument': conversion from 'double' to 'T', possible loss of data
+          with
+          [
+              T=int
+          ]
+F:\SFML\TrainExample\TrainExample\Game.cpp(125,59): warning C4244: 'argument': conversion from 'double' to 'T', possible loss of data
+          with
+          [
+              T=int
+          ]
+F:\SFML\TrainExample\TrainExample\Game.cpp(125,49): warning C4244: 'argument': conversion from 'double' to 'T', possible loss of data
+          with
+          [
+              T=int
+          ]
+F:\SFML\TrainExample\TrainExample\Game.cpp(127,70): warning C4244: 'argument': conversion from 'double' to 'T', possible loss of data
+          with
+          [
+              T=int
+          ]
+F:\SFML\TrainExample\TrainExample\Game.cpp(127,64): warning C4244: 'argument': conversion from 'double' to 'T', possible loss of data
+          with
+          [
+              T=int
+          ]
+F:\SFML\TrainExample\TrainExample\Game.cpp(127,59): warning C4244: 'argument': conversion from 'double' to 'T', possible loss of data
+          with
+          [
+              T=int
+          ]
+F:\SFML\TrainExample\TrainExample\Game.cpp(127,49): warning C4244: 'argument': conversion from 'double' to 'T', possible loss of data
+          with
+          [
+              T=int
+          ]
+F:\SFML\TrainExample\TrainExample\Game.cpp(129,71): warning C4244: 'argument': conversion from 'double' to 'T', possible loss of data
+          with
+          [
+              T=int
+          ]
+F:\SFML\TrainExample\TrainExample\Game.cpp(129,65): warning C4244: 'argument': conversion from 'double' to 'T', possible loss of data
+          with
+          [
+              T=int
+          ]
+F:\SFML\TrainExample\TrainExample\Game.cpp(129,60): warning C4244: 'argument': conversion from 'double' to 'T', possible loss of data
+          with
+          [
+              T=int
+          ]
+F:\SFML\TrainExample\TrainExample\Game.cpp(129,50): warning C4244: 'argument': conversion from 'double' to 'T', possible loss of data
+          with
+          [
+              T=int
+          ]
+F:\SFML\TrainExample\TrainExample\Game.cpp(136,68): warning C4244: 'argument': conversion from 'double' to 'T', possible loss of data
+          with
+          [
+              T=int
+          ]
+F:\SFML\TrainExample\TrainExample\Game.cpp(136,62): warning C4244: 'argument': conversion from 'double' to 'T', possible loss of data
+          with
+          [
+              T=int
+          ]
+F:\SFML\TrainExample\TrainExample\Game.cpp(136,57): warning C4244: 'argument': conversion from 'double' to 'T', possible loss of data
+          with
+          [
+              T=int
+          ]
+F:\SFML\TrainExample\TrainExample\Game.cpp(136,47): warning C4244: 'argument': conversion from 'double' to 'T', possible loss of data
+          with
+          [
+              T=int
+          ]
+F:\SFML\TrainExample\TrainExample\Game.cpp(138,70): warning C4244: 'argument': conversion from 'double' to 'T', possible loss of data
+          with
+          [
+              T=int
+          ]
+F:\SFML\TrainExample\TrainExample\Game.cpp(138,64): warning C4244: 'argument': conversion from 'double' to 'T', possible loss of data
+          with
+          [
+              T=int
+          ]
+F:\SFML\TrainExample\TrainExample\Game.cpp(138,59): warning C4244: 'argument': conversion from 'double' to 'T', possible loss of data
+          with
+          [
+              T=int
+          ]
+F:\SFML\TrainExample\TrainExample\Game.cpp(138,49): warning C4244: 'argument': conversion from 'double' to 'T', possible loss of data
+          with
+          [
+              T=int
+          ]
+F:\SFML\TrainExample\TrainExample\Game.cpp(140,70): warning C4244: 'argument': conversion from 'double' to 'T', possible loss of data
+          with
+          [
+              T=int
+          ]
+F:\SFML\TrainExample\TrainExample\Game.cpp(140,64): warning C4244: 'argument': conversion from 'double' to 'T', possible loss of data
+          with
+          [
+              T=int
+          ]
+F:\SFML\TrainExample\TrainExample\Game.cpp(140,59): warning C4244: 'argument': conversion from 'double' to 'T', possible loss of data
+          with
+          [
+              T=int
+          ]
+F:\SFML\TrainExample\TrainExample\Game.cpp(140,49): warning C4244: 'argument': conversion from 'double' to 'T', possible loss of data
+          with
+          [
+              T=int
+          ]
+F:\SFML\TrainExample\TrainExample\Game.cpp(142,71): warning C4244: 'argument': conversion from 'double' to 'T', possible loss of data
+          with
+          [
+              T=int
+          ]
+F:\SFML\TrainExample\TrainExample\Game.cpp(142,65): warning C4244: 'argument': conversion from 'double' to 'T', possible loss of data
+          with
+          [
+              T=int
+          ]
+F:\SFML\TrainExample\TrainExample\Game.cpp(142,60): warning C4244: 'argument': conversion from 'double' to 'T', possible loss of data
+          with
+          [
+              T=int
+          ]
+F:\SFML\TrainExample\TrainExample\Game.cpp(142,50): warning C4244: 'argument': conversion from 'double' to 'T', possible loss of data
+          with
+          [
+              T=int
+          ]
+F:\SFML\TrainExample\TrainExample\Game.cpp(169,77): warning C4244: 'argument': conversion from 'int' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+F:\SFML\TrainExample\TrainExample\Game.cpp(169,47): warning C4244: 'argument': conversion from 'int' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+F:\SFML\TrainExample\TrainExample\Game.cpp(195,38): warning C4244: 'argument': conversion from 'int' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+F:\SFML\TrainExample\TrainExample\Game.cpp(195,26): warning C4244: 'argument': conversion from 'int' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+  TrainExample.vcxproj -> F:\SFML\TrainExample\Debug\TrainExample.exe
